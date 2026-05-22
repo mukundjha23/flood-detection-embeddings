@@ -87,6 +87,34 @@ Evaluated models:
 
 ---
 
+# Visualizations
+
+## Overall Methodology Pipeline
+
+![Pipeline](assets/Overall%20Methodology%20Pipeline.jpeg)
+
+---
+
+## Traditional vs Embedding-Based Approach
+
+![Comparison](assets/Traditional%20Method.jpeg)
+
+![Embedding](assets/Our%20Embedding%20Based%20Method.jpeg)
+
+---
+
+## Model Comparison
+
+![Models](assets/model_comparison.jpeg)
+
+---
+
+## Sample Prediction
+
+![Prediction](assets/Sample%20Prediction.jpeg)
+
+---
+
 # Results
 
 | Model | Validation Accuracy | ROC-AUC |
